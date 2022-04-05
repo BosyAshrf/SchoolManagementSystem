@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+  'List_Sections' => 'قائمة الاقسام الدراسية',
+  'List_Grade' => 'قائمة الصفوف الدراسية',
+  'Sections'=>'الاقسام الدراسية',
+  'add_Sections' => 'اضافة اقسام ',
+  'edit_Section'=> 'تعديل قسم',
+  'delete_Section'=> 'حذف قسم',
+  'Warning_Section'=> 'هل انت متاكد من عملية الحذف ؟',
+  'Section_name_ar' => 'اسم القسم باللغة العربية',
+  'Section_name_en' => 'اسم القسم باللغة الانجليزية',
+  'Select_Grade' => '-- اختر المرحلة الدراسية --',
+  'Name_Grade' => 'اسم المرحلة الدراسية',
+  'Notes' => 'ملاحظات',
+  'Name_Section'=>'اسم القسم',
+  'Name_Teacher'=>'اسم المعلم',
+  'Name_Class'=>'اسم الصف الدراسي',
+  'Status'=>'الحالة',
+  'Status_Section_AC'=>'نشط',
+  'Status_Section_No'=>'غير نشط',
+  'delete_Grade_Error'=>'لا يمكن حذف المرحلةالدراسية بسبب وجود صفوف تابعة لها',
+  'required_ar'=>'يرجي ادخال اسم القسم باللغة العربية',
+  'required_en'=>'يرجي ادخال اسم القسم باللغة الانجليزية',
+  'Grade_id_required'=>'يرجي اختيار اسم المرحلة',
+  'Class_id_required'=>'يرجي تحديد الصف الدراسي',
+  'Actions'=>'العمليات',
+  'Edit'=>'تعديل',
+  'Delete'=>'حذف',
+  'Save' => 'حفظ',
+  'Close' => 'اغلاق',
+];
